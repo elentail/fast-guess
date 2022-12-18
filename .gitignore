@@ -1,0 +1,3 @@
+note/text/**
+.ipynb_checkpoints/
+*.bz2
